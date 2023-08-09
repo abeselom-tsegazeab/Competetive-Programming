@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Competetive-Programming/static/css/main.55b90140.css",
+    "main.js": "/Competetive-Programming/static/js/main.f3e49c96.js",
+    "static/media/search-section@3x.png": "/Competetive-Programming/static/media/search-section@3x.07144df9975cca1a8b51.png",
+    "static/media/pariscard@3x.png": "/Competetive-Programming/static/media/pariscard@3x.92e5ef2d9de9e6552097.png",
+    "static/media/subscribe-section@3x.png": "/Competetive-Programming/static/media/subscribe-section@3x.b8d71c314eb47e652df5.png",
+    "index.html": "/Competetive-Programming/index.html",
+    "main.55b90140.css.map": "/Competetive-Programming/static/css/main.55b90140.css.map",
+    "main.f3e49c96.js.map": "/Competetive-Programming/static/js/main.f3e49c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b90140.css",
+    "static/js/main.f3e49c96.js"
+  ]
+}
